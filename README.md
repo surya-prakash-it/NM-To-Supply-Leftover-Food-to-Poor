@@ -147,11 +147,10 @@ Through this project, we have showcased the **power of cloud-based automation**,
 
 | **Name** | **Role** |
 |-----------|-----------|
-| Sandhosh G | Team Lead / Salesforce Admin |
-| Member 2 | Developer |
-| Member 3 | Tester |
-| Member 4 | Documentation & Design |
-| Member 5 | Analyst |
+| Pravin | Team Lead / Salesforce Admin |
+| Vigneshwar | Developer |
+| Gowshik| Tester |
+| Surya Prakassh | Documentation & Design |
 
 ---
 
